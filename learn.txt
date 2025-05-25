@@ -1,0 +1,10 @@
+1. routing 
+2. custom fonts done
+
+3. we are exporting different (formatted pngs,gifs,jpgs,jpegs) using this declaration file to settle up the issue in icons _(
+    
+    Cannot find module '@/assets/icons/person.png' or its corresponding type declarations.
+    
+    )_
+
+4. 1st FIRST SCREEN -> SIGN_IN / SIGN_UP SCREEN
