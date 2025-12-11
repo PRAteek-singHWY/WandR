@@ -41,7 +41,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ![WhatsApp Image 2025-05-25 at 2 23 56 PM (2)](https://github.com/user-attachments/assets/e64cb1ac-3679-4a8c-819f-eaec531f8b52)
 
 
-![Uploading WhatsApp Image 2025-05-25 at 2.23.57 PM.jpeg…]()
 
 ## Get started
 
