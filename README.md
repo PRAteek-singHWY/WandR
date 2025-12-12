@@ -1,4 +1,4 @@
-
+Wandr is a robust, cross-platform mobile application built with React Native for seamless iOS and Android experiences.
 
 ![WhatsApp Image 2025-05-25 at 2 23 55 PM](https://github.com/user-attachments/assets/990720f5-959a-48a1-91ea-7250c587f11f)
 
